@@ -1,0 +1,6 @@
+br\com\ingressosOnLine\service\UsuarioService.class
+br\com\ingressosOnLine\ImgressosOnLineApplication.class
+br\com\ingressosOnLine\service\UsuarioServiceImpl.class
+br\com\ingressosOnLine\model\Usuario.class
+br\com\ingressosOnLine\controller\UsuarioController.class
+br\com\ingressosOnLine\repository\UsuarioRepository.class
